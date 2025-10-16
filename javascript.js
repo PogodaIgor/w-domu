@@ -1,0 +1,1 @@
+var imie = "Igor Pogoda";
